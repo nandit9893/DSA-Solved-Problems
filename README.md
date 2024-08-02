@@ -26,5 +26,7 @@
 ![DSA](DSA/lcp.png)
 
 ## Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0. Notice that the solution set must not contain duplicate triplets.
-
 ![DSA](DSA/threesum.png)
+
+## A mapping of digits to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
+![DSA](DSA/lettercomb.png)
