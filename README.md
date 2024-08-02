@@ -12,3 +12,6 @@
 
 ## Given a string s, find the length of the longest substring without repeating characters.
 ![DSA](DSA/lswrc.png)
+
+## iven a string s, return the longest palindromic substring in s.
+![DSA](DSA/lp.png)
