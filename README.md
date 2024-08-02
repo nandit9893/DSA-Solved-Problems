@@ -30,3 +30,6 @@
 
 ## A mapping of digits to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
 ![DSA](DSA/lettercomb.png)
+
+## Given the head of a linked list, remove the nth node from the end of the list and return its head.
+![DSA](DSA/nth.png)
