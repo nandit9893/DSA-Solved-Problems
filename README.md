@@ -45,3 +45,6 @@
 
 ## Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
 ![DSA](DSA/generateparenthesis.png)
+
+## You are given an array of k linked-lists lists, each linked-list is sorted in ascending order. Merge all the linked-lists into one sorted linked-list and return it.
+![DSA](DSA/mergesortedlists.png)
