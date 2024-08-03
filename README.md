@@ -48,3 +48,6 @@
 
 ## You are given an array of k linked-lists lists, each linked-list is sorted in ascending order. Merge all the linked-lists into one sorted linked-list and return it.
 ![DSA](DSA/mergesortedlists.png)
+
+## Given a linked list, swap every two adjacent nodes and return its head. You must solve the problem without modifying the values in the list's nodes (i.e., only nodes themselves may be changed.)
+![DSA](DSA/swapnodesinpairs.png)
