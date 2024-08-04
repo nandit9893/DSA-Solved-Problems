@@ -54,3 +54,6 @@
 
 ## Find the permutations of the string.
 ![DSA](DSA/allpermutations.png)
+
+## Find the combinations of the string.
+![DSA](DSA/allcombinations.png)
