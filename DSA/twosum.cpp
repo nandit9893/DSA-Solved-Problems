@@ -42,7 +42,7 @@ int main()
     vector<int> result = rs.findIndices(nums, target);
     if(!result.empty())
     {
-        cout<<"Output : ["<<result[0]<<", "<<result[1]<<"]"<< endl;
+        cout<<"Indices are : ["<<result[0]<<", "<<result[1]<<"]"<< endl;
     }
     else
     {
